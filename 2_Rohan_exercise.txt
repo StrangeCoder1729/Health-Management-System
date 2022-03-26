@@ -1,0 +1,2 @@
+[2022-01-28 20:34:58.380657] : Running
+[2022-01-28 20:35:12.986339] : Walking, Brisk Walking, pushups
